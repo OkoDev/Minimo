@@ -1,0 +1,56 @@
+body{
+    min-width: 320px;
+    font-size: 14px;
+    font-family: "Playfair Display", serif;
+    color:#626262
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+
+a {
+    color:#b4ad9e
+}
+a:hover {
+    color:#898377
+}
+
+header .navbar-brand{
+    font-family: "Inconsolata", monospace;
+    font-size: 30px;
+    color: #000000;
+}
+
+header .nav-item a::after{
+    content: '';
+    display: block;
+    width: 100%;
+    background-color: #cccccc;
+    height: 1px;
+    transform: scale(0);
+    transform-origin: left;
+    transition: all .3s;
+}
+header .nav-item a:hover::after{
+    transform: scale(1);
+}
+.navbar-toggler-icon{
+    outline: none;
+}
+
+/*!*Extra small (xs) devices (portrait phones, less than 576px)*!*/
+/*@media (max-width: 480px) { ... }*/
+
+/*!*Small (sm) devices (landscape phones, 576px and up)*!*/
+/*@media (max-width: 768px) { ... }*/
+
+/*!*Medium (md) devices (tablets, 768px and up)*!*/
+/*@media (max-width: 992px) { ... }*/
+
+/*!*Large (lg) devices (desktops, 992px and up)*!*/
+/*@media (max-width: 1200px) { ... }*/
+
+/*!*Extra (xl) large devices (large desktops, 1200px and up)*!*/
+/*@media (max-width: 1200px) { ... }*/
