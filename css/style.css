@@ -16,6 +16,13 @@ a {
 a:hover {
     color:#898377
 }
+p{
+    line-height: 1.714rem;
+}
+h2, h3 {
+    margin: 1rem 0;
+    /*font-size: 30px;*/
+}
 
 header .navbar-brand{
     font-family: "Inconsolata", monospace;
@@ -39,9 +46,36 @@ header .nav-item a:hover::after{
 .navbar-toggler-icon{
     outline: none;
 }
+.post-category,
+.link-more {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 14px;
+    color: #b4ad9e;
+}
+.post-title{
+    color: #626262
+}
+.grid-posts .card-body{
+
+}
+.grid-posts .card-img-top{
+    max-height: 280px;
+    max-width: 420px;
+}
+.load-more{
+    padding: 1rem 2rem;
+    border-color: #626262;
+    border-radius: 2px;
+}
+
 
 /*!*Extra small (xs) devices (portrait phones, less than 576px)*!*/
-/*@media (max-width: 480px) { ... }*/
+@media (min-width: 480px) {
+    header .container, .navbar{
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
 
 /*!*Small (sm) devices (landscape phones, 576px and up)*!*/
 /*@media (max-width: 768px) { ... }*/
@@ -54,3 +88,4 @@ header .nav-item a:hover::after{
 
 /*!*Extra (xl) large devices (large desktops, 1200px and up)*!*/
 /*@media (max-width: 1200px) { ... }*/
+
