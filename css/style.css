@@ -63,11 +63,54 @@ header .nav-item a:hover::after{
     max-width: 420px;
 }
 .load-more{
-    padding: 1rem 2rem;
+    /*padding: 0.5rem 2rem;*/
     border-color: #626262;
     border-radius: 2px;
 }
+.signup{
+    background-color: #f0f0f0;
+    padding: 70px 0;
+}
+.signup h3{
+    color: #333;
+}
+.signup form{
+    margin-top: 70px;
+}
+.signup .form-control{
+    bottom: 0;
+    border-bottom: 1px solid #000;
+    border-radius: 0;
+    background-color: transparent;
+}
+.signup .form-control:focus{
+    box-shadow: none;
+}
 
+.form-input .btn{
+    position: absolute;
+    right: 0;
+    top: -5px;
+    font-size: 25px;
+    outline: hidden;
+}
+.form-input .btn:focus{
+    box-shadow: none;
+}
+
+footer{
+    background-color: #f0f0f0;
+    color: #000;
+}
+.footer-left a{
+    color:#000;
+    margin-right: 20px;
+}
+.footer-right a{
+    color:#626262;
+    margin-left: 20px;
+
+}
 
 /*!*Extra small (xs) devices (portrait phones, less than 576px)*!*/
 @media (min-width: 480px) {
