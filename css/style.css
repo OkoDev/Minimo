@@ -43,7 +43,7 @@ header .nav-item a::after{
 header .nav-item a:hover::after{
     transform: scale(1);
 }
-.navbar-toggler-icon{
+button:focus {
     outline: none;
 }
 .post-category,
@@ -58,10 +58,10 @@ header .nav-item a:hover::after{
 .grid-posts .card-body{
 
 }
-.grid-posts .card-img-top{
-    max-height: 280px;
-    max-width: 420px;
-}
+/*.grid-posts .card-img-top{*/
+/*    max-height: 280px;*/
+/*    max-width: 420px;*/
+/*}*/
 .load-more{
     /*padding: 0.5rem 2rem;*/
     border-color: #626262;
@@ -92,7 +92,7 @@ header .nav-item a:hover::after{
     right: 0;
     top: -5px;
     font-size: 25px;
-    outline: hidden;
+    outline: none;
 }
 .form-input .btn:focus{
     box-shadow: none;

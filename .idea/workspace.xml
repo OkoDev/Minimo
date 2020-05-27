@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba6c7ae0-396e-4325-9004-09a6bd4d70c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Oko_Dev.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Minimo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Minimo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data.html" beforeDir="false" afterPath="$PROJECT_DIR$/data.html" afterDir="false" />
@@ -14,9 +15,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
+    <execution />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -46,7 +45,6 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -55,10 +53,10 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MajorTest" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -96,6 +94,13 @@
       <workItem from="1589640403874" duration="3123000" />
       <workItem from="1589834272714" duration="1647000" />
       <workItem from="1589916577583" duration="9263000" />
+      <workItem from="1589927480484" duration="189000" />
+      <workItem from="1589927879712" duration="99000" />
+      <workItem from="1589993921398" duration="6174000" />
+      <workItem from="1590317948840" duration="454000" />
+      <workItem from="1590436440479" duration="263000" />
+      <workItem from="1590609798523" duration="231000" />
+      <workItem from="1590610054646" duration="1938000" />
     </task>
     <task id="LOCAL-00001" summary="clamp posts + ajax posts">
       <created>1589574008191</created>
@@ -118,42 +123,60 @@
       <option name="project" value="LOCAL" />
       <updated>1589574805753</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add footer">
+      <created>1589927522362</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1589927522362</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="clamp posts + ajax posts" />
-    <option name="LAST_COMMIT_MESSAGE" value="clamp posts + ajax posts" />
+    <MESSAGE value="add footer" />
+    <option name="LAST_COMMIT_MESSAGE" value="add footer" />
   </component>
   <component name="WindowStateProjectService">
     <state x="413" y="143" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper" timestamp="1586814683062">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="143" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper/0.0.1366.728/0.-1080.1920.1040@0.0.1366.728" timestamp="1586814683062" />
-    <state x="284" y="75" key="CommitChangelistDialog2" timestamp="1589574805226">
+    <state x="363" y="100" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1589927549173">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="363" y="100" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728/0.-1080.1920.1040@0.0.1366.728" timestamp="1589927549173" />
+    <state x="284" y="75" key="CommitChangelistDialog2" timestamp="1589927521582">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="284" y="75" key="CommitChangelistDialog2/0.0.1366.728/0.-1080.1920.1040@0.0.1366.728" timestamp="1589927521582" />
     <state x="284" y="75" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1589574805226" />
-    <state x="462" y="119" key="FileChooserDialogImpl" timestamp="1589920457564">
+    <state x="462" y="119" key="FileChooserDialogImpl" timestamp="1590436701235">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="119" key="FileChooserDialogImpl/0.0.1366.728/0.-1080.1920.1040@0.0.1366.728" timestamp="1589920457564" />
+    <state x="462" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590436701235" />
     <state x="553" y="257" key="Github.ShareDialog" timestamp="1586031664074">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="553" y="257" key="Github.ShareDialog/0.0.1366.728/0.-1080.1920.1040@0.0.1366.728" timestamp="1586031664074" />
-    <state x="184" y="6" key="SettingsEditor" timestamp="1586817112806">
+    <state x="136" y="78" key="RollbackChangesDialog" timestamp="1590611039514">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="6" key="SettingsEditor/0.0.1366.728/0.-1080.1920.1040@0.0.1366.728" timestamp="1586817112806" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1589927493770">
+    <state x="136" y="78" key="RollbackChangesDialog/0.0.1366.728/0.-1080.1920.1040@0.0.1366.728" timestamp="1590611039514" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1590610027334">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/0.-1080.1920.1040@0.0.1366.728" timestamp="1589927493770" />
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728/0.-1080.1920.1040@0.0.1366.728" timestamp="1590610027334" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1589927525248">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/0.-1080.1920.1040@0.0.1366.728" timestamp="1589927525248" />
     <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1589574808542" />
     <state x="346" y="49" key="search.everywhere.popup" timestamp="1586018645720">
       <screen x="0" y="0" width="1366" height="728" />
