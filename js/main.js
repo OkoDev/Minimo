@@ -1,7 +1,3 @@
-// USING -> https://github.com/josephschmitt/Clamp.js
-
-// let module = document.getElementById("clamp");
-// $clamp(module, {clamp: 5});
 document.addEventListener('DOMContentLoaded', () => {
 
     const clamp = () => {
@@ -10,6 +6,14 @@ document.addEventListener('DOMContentLoaded', () => {
     };
 
     clamp();
+
+    $readMoreJS.init({
+        target: '.collapsed p',
+        numOfWords: 60,
+        toggle: true,
+        moreLink: 'read more ...',
+        lessLink: '... read less'
+    });
 
     $('.load-more').on('click', function () {
         const btn = $(this);
