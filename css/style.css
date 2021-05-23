@@ -19,7 +19,7 @@ a:hover {
     color: #898377
 }
 
-a .social{
+a .social {
     font-size: 16px;
 }
 
@@ -36,10 +36,12 @@ header .navbar-brand {
     font-size: 30px;
     color: #000000;
 }
-.moreContainer{
+
+.moreContainer {
     text-align: right;
 }
-#rm-more_0{
+
+#rm-more_0 {
     display: inline-block;
 }
 
@@ -121,32 +123,42 @@ button:focus {
 
 footer {
     background-color: #f0f0f0;
-    color: #000;
 }
 
 .footer-left a {
     margin-right: 20px;
 }
 
-.footer-right a {
+.footer-right a, .single-post .social {
     color: #626262;
     margin-left: 20px;
-    display: block;
-    width: 18px;
-    height: 18px;
     background-position: 50% 50%;
     background-repeat: no-repeat;
 }
 
-.facebook{
-    background-image:url(../ico/facebook-f.svg);
+a svg {
+    height: 16px;
+    padding: 0;
+    margin: 0;
 }
-.twitter{
-    background-image:url(../ico/twitter.svg);
+
+/*.follow, .terms {*/
+/*    align-items: center;*/
+/*    justify-content: center;*/
+/*}*/
+
+.fb:hover {
+    color: #4267B2;
 }
-.instagram{
-    background-image:url(../ico/instagram.svg);
+
+.twitter:hover {
+    color: #1DA1F2;
 }
+
+.instagram:hover {
+    color: #F87019;
+}
+
 
 /*!*Extra small (xs) devices (portrait phones, less than 576px)*!*/
 @media (min-width: 480px) {

@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba6c7ae0-396e-4325-9004-09a6bd4d70c4" name="Default Changelist" comment="" />
+    <list default="true" id="ba6c7ae0-396e-4325-9004-09a6bd4d70c4" name="Default Changelist" comment="refactor: change svg urls">
+      <change afterPath="$PROJECT_DIR$/img/s-post1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/s-post2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/s-post3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.html" beforeDir="false" afterPath="$PROJECT_DIR$/data.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ico/facebook-f.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ico/instagram.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ico/twitter.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,7 +112,7 @@
       <workItem from="1600929769756" duration="799000" />
       <workItem from="1610273194789" duration="1762000" />
       <workItem from="1610985551553" duration="1406000" />
-      <workItem from="1621677335558" duration="21217000" />
+      <workItem from="1621677335558" duration="44889000" />
     </task>
     <task id="LOCAL-00001" summary="clamp posts + ajax posts">
       <created>1589574008191</created>
@@ -152,7 +163,21 @@
       <option name="project" value="LOCAL" />
       <updated>1621752470471</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="refactor: change svg urls">
+      <created>1621752908804</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1621752908804</updated>
+    </task>
+    <task id="LOCAL-00009" summary="refactor: change svg urls">
+      <created>1621754136955</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1621754136955</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,17 +190,18 @@
     <MESSAGE value="add Yandex Metrika counter" />
     <MESSAGE value="add README.md" />
     <MESSAGE value="refactor: change svg urls&#10;add: ReadMore.js" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor: change svg urls&#10;add: ReadMore.js" />
+    <MESSAGE value="refactor: change svg urls" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor: change svg urls" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="307" y="51" key="CommitChangelistDialog2" timestamp="1621752469148">
+    <state x="307" y="51" key="CommitChangelistDialog2" timestamp="1621766918196">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="307" y="51" key="CommitChangelistDialog2/0.0.1366.728/0.-1080.1920.1040@0.0.1366.728" timestamp="1621752469148" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1621752584209">
+    <state x="307" y="51" key="CommitChangelistDialog2/0.0.1366.728/0.-1080.1920.1040@0.0.1366.728" timestamp="1621766918196" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1621754142169">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/0.-1080.1920.1040@0.0.1366.728" timestamp="1621752584209" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/0.-1080.1920.1040@0.0.1366.728" timestamp="1621754142169" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1621690045490">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
