@@ -139,13 +139,13 @@ footer {
 }
 
 .facebook{
-    background-image:url(/ico/facebook-f.svg);
+    background-image:url(./ico/facebook-f.svg);
 }
 .twitter{
-    background-image:url(/ico/twitter.svg);
+    background-image:url(./ico/twitter.svg);
 }
 .instagram{
-    background-image:url(/ico/instagram.svg);
+    background-image:url(./ico/instagram.svg);
 }
 
 /*!*Extra small (xs) devices (portrait phones, less than 576px)*!*/
