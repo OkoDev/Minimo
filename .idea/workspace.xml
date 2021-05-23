@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba6c7ae0-396e-4325-9004-09a6bd4d70c4" name="Default Changelist" comment="refactor: change svg urls">
-      <change afterPath="$PROJECT_DIR$/img/s-post1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/s-post2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/s-post3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data.html" beforeDir="false" afterPath="$PROJECT_DIR$/data.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ico/facebook-f.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ico/instagram.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ico/twitter.svg" beforeDir="false" />
+    <list default="true" id="ba6c7ae0-396e-4325-9004-09a6bd4d70c4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -112,7 +103,7 @@
       <workItem from="1600929769756" duration="799000" />
       <workItem from="1610273194789" duration="1762000" />
       <workItem from="1610985551553" duration="1406000" />
-      <workItem from="1621677335558" duration="44889000" />
+      <workItem from="1621677335558" duration="45081000" />
     </task>
     <task id="LOCAL-00001" summary="clamp posts + ajax posts">
       <created>1589574008191</created>
@@ -177,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621754136955</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="feat: add single-post photos &amp; socials icons">
+      <created>1621799577791</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1621799577792</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,17 +189,18 @@
     <MESSAGE value="add README.md" />
     <MESSAGE value="refactor: change svg urls&#10;add: ReadMore.js" />
     <MESSAGE value="refactor: change svg urls" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor: change svg urls" />
+    <MESSAGE value="feat: add single-post photos &amp; socials icons" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add single-post photos &amp; socials icons" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="307" y="51" key="CommitChangelistDialog2" timestamp="1621766918196">
+    <state x="307" y="51" key="CommitChangelistDialog2" timestamp="1621799576794">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="307" y="51" key="CommitChangelistDialog2/0.0.1366.728/0.-1080.1920.1040@0.0.1366.728" timestamp="1621766918196" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1621754142169">
+    <state x="307" y="51" key="CommitChangelistDialog2/0.0.1366.728/0.-1080.1920.1040@0.0.1366.728" timestamp="1621799576794" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1621799596269">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/0.-1080.1920.1040@0.0.1366.728" timestamp="1621754142169" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/0.-1080.1920.1040@0.0.1366.728" timestamp="1621799596269" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1621690045490">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
